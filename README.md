@@ -31,7 +31,7 @@ Esta guía está diseñada para estudiantes de administración de sistemas infor
 *Aprende a crear scripts para automatizar tareas repetitivas de administración.*
 
 **Recursos:**
-- ✓ Codecademy - Learn Python 3 (Acceso gratuito limitado, certificado con cuenta Pro ~20€/mes)
+- € Codecademy - Learn Python 3 (Acceso gratuito limitado, certificado con cuenta Pro ~20€/mes)
 - ⟂ Automate the Boring Stuff with Python (Libro en línea gratuito)
 - ✓ Google Automation with Python Professional Certificate en Coursera (Gratuito con becas disponibles, de lo contrario ~39€/mes)
 
@@ -43,7 +43,7 @@ Esta guía está diseñada para estudiantes de administración de sistemas infor
 **Recursos:**
 - ✓ GitHub Learning Lab - Introduction to GitHub (Certificado gratuito)
 - ⟂ Pro Git Book (Libro gratuito en línea)
-- ✓ Platzi - Curso Profesional de Git y GitHub (Gratuito, certificado con suscripción ~19€/mes)
+- € Platzi - Curso Profesional de Git y GitHub (Gratuito, certificado con suscripción ~19€/mes)
 - ⟂ Git-it (Tutorial interactivo gratuito)
 
 ### 2. GitHub
@@ -71,7 +71,7 @@ Esta guía está diseñada para estudiantes de administración de sistemas infor
 - ✓ FreeCodeCamp - Responsive Web Design Certification (Certificado gratuito)
 - ⟂ MDN Web Docs - Guías de HTML y CSS (Gratuito sin certificado)
 - ✓ OpenClassrooms - Create your website with HTML5 and CSS3 (Certificado gratuito)
-- ⟂ W3Schools - HTML & CSS Tutorial (Gratuito, certificado por 95€)
+- € W3Schools - HTML & CSS Tutorial (Gratuito, certificado por 95€)
 
 ### 2. JavaScript básico
 *Interactividad básica en páginas web y fundamentos de programación del lado del cliente.*
@@ -108,7 +108,7 @@ Esta guía está diseñada para estudiantes de administración de sistemas infor
 *Comprende cómo funciona la comunicación entre sistemas.*
 
 **Recursos:**
-- ✓ Cisco Networking Academy - Introduction to Networks (Curso gratuito con certificado, certificaciones profesionales desde 100€)
+- ✓ y € Cisco Networking Academy - Introduction to Networks (Curso gratuito con certificado, certificaciones profesionales desde 100€)
 - € edX - Introduction to Networking por NYU (Curso gratuito, certificado verificado 45€)
 - ⟂ Computer Networking: Principles, Protocols and Practice (Libro electrónico gratuito)
 - ✓ NetAcad - Introducción a la Ciberseguridad (Certificado gratuito)
@@ -128,7 +128,7 @@ Esta guía está diseñada para estudiantes de administración de sistemas infor
 *Comandos y gestión básica de sistemas Linux, esencial para administración de servidores.*
 
 **Recursos:**
-- ✓ Linux Foundation - Introduction to Linux (Curso gratuito en edX, certificado verificado ~45€)
+- € Linux Foundation - Introduction to Linux (Curso gratuito en edX, certificado verificado ~45€)
 - ⟂ Linux Journey - Tutorial interactivo (Gratuito sin certificado)
 - ✓ NDG Linux Essentials - Cisco Networking Academy (Certificado gratuito)
 - ⟂ The Linux Command Line (Libro gratuito en línea)
@@ -139,7 +139,7 @@ Esta guía está diseñada para estudiantes de administración de sistemas infor
 **Recursos:**
 - ✓ OpenClassrooms - Command Line Course (Certificado gratuito)
 - ⟂ Shell Scripting Tutorial (Gratuito sin certificado)
-- ✓ edX - Introduction to Bash Shell Scripting (Curso gratuito, certificado verificado ~45€)
+- € edX - Introduction to Bash Shell Scripting (Curso gratuito, certificado verificado ~45€)
 - ⟂ GNU Bash Reference Manual (Documentación oficial gratuita)
 
 ## 🛠️ Proyectos Prácticos
@@ -150,7 +150,7 @@ Esta guía está diseñada para estudiantes de administración de sistemas infor
 **Recursos:**
 - ✓ KodeKloud - Ansible for Beginners (Curso gratuito con certificado)
 - ⟂ HashiCorp Learn - Terraform (Tutoriales gratuitos)
-- ✓ Red Hat Developer - Ansible Automation Platform (Materiales gratuitos, certificación profesional ~400€)
+- € Red Hat Developer - Ansible Automation Platform (Materiales gratuitos, certificación profesional ~400€)
 - ⟂ Documentación oficial de Ansible (Gratuito sin certificado)
 
 ### 2. Mini proyecto: Sistema de monitorización
@@ -188,7 +188,3 @@ Si quieres contribuir a esta guía, puedes hacer un fork del repositorio y envia
 ## 📜 Licencia
 
 Este recurso está disponible bajo la licencia [MIT](LICENSE).
-
----
-
-*Este repositorio es parte de mi viaje de aprendizaje en el primer año de Administración de Sistemas Informáticos en Red.*
